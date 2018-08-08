@@ -5,3 +5,4 @@ I'm also checking how git remote works.
 added 8/8
 
 edit local master
+edited by master after memo
